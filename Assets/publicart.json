@@ -1,0 +1,1765 @@
+{
+    "nhits": 615,
+    "parameters": {
+        "dataset": "public-art",
+        "timezone": "UTC",
+        "rows": 10,
+        "format": "json",
+        "facet": [ "type", "siteaddress", "neighbourhood", "artists", "name" ]
+    },
+    "records": [
+        {
+            "datasetid": "public-art",
+            "recordid": "8766ae98fa883bb40a298aa199253192044bb038",
+            "fields": {
+                "status": "In place",
+                "yearofinstallation": "1976",
+                "photourl": {
+                    "mimetype": "application/octet-stream",
+                    "width": 300,
+                    "filename": "LAW72-1.jpg",
+                    "id": "d7da8a6203790b188fd4608378dc50d9",
+                    "height": 300
+                },
+                "sitename": "Pender Place",
+                "url": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=72",
+                "geom": {
+                    "type": "Point",
+                    "coordinates": [ -123.115651, 49.284826 ]
+                },
+                "primarymaterial": "fibreglass",
+                "ownership": "private",
+                "artists": "31",
+                "siteaddress": "700 West Pender Street",
+                "registryid": 72,
+                "geo_local_area": "Downtown",
+                "type": "Sculpture",
+                "neighbourhood": "Downtown",
+                "locationonsite": "Between lobbies"
+            },
+            "record_timestamp": "2019-09-16T11:01:38.265000+00:00"
+        },
+        {
+            "datasetid": "public-art",
+            "recordid": "9b53420fb523146fa95e907d1f8e208cfcd8f568",
+            "fields": {
+                "status": "In place",
+                "descriptionofwork": "This bronze statue of Robbie Burns was cast from the original in his native town of Ayr, Scotland. It is designated a heritage monument.",
+                "yearofinstallation": "1928",
+                "photourl": {
+                    "mimetype": "application/octet-stream",
+                    "width": 300,
+                    "filename": "LAW83-1.jpg",
+                    "id": "1b6766f942ea86126a24de14dfea6aad",
+                    "height": 300
+                },
+                "url": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=83",
+                "geom": {
+                    "type": "Point",
+                    "coordinates": [ -123.134619, 49.297198 ]
+                },
+                "primarymaterial": "Bronze",
+                "ownership": "City of Vancouver",
+                "artists": "92",
+                "siteaddress": "Stanley Park",
+                "registryid": 83,
+                "type": "Memorial or Monument",
+                "neighbourhood": "Stanley Park",
+                "locationonsite": "Georgia Street entrance across from the Rowing Club"
+            },
+            "record_timestamp": "2019-09-16T11:01:38.265000+00:00"
+        },
+        {
+            "datasetid": "public-art",
+            "recordid": "567dafb9b1bb03de7a7225d67e452c4bd13cfd22",
+            "fields": {
+                "status": "In place",
+                "descriptionofwork": "A large metal X sits on top of a circular pool. The X is scored and lined with slate channels that fill with water and spill onto the stones outside the pool. Water also flows down a spiral channel and falls inside the pool. The natural flow of the water works in relation to  the geometric forms of the piece.",
+                "yearofinstallation": "2003",
+                "photourl": {
+                    "mimetype": "application/octet-stream",
+                    "width": 300,
+                    "filename": "LAW90-1.jpg",
+                    "id": "f61ada9a2f6afb4537e874d0e214bac7",
+                    "height": 300
+                },
+                "sitename": "Concord Pacific",
+                "url": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=90",
+                "geom": {
+                    "type": "Point",
+                    "coordinates": [ -123.126135, 49.272885 ]
+                },
+                "locationonsite": "Corner of Homer and Pacific",
+                "ownership": "Privately owned",
+                "artists": "214",
+                "siteaddress": "1408 Pacific Boulevard",
+                "registryid": 90,
+                "type": "Fountain or Water Feature",
+                "neighbourhood": "Downtown",
+                "geo_local_area": "Downtown"
+            },
+            "record_timestamp": "2019-09-16T11:01:38.265000+00:00"
+        },
+        {
+            "datasetid": "public-art",
+            "recordid": "1b5e640af707d1f40ea9b6d9387b21bed99d6094",
+            "fields": {
+                "status": "In place",
+                "descriptionofwork": "A replica of a Haida mortuary pole originally raised in Skedans prior to 1878 and moved to Vancouver in 1936 for Vancouver's golden jubilee. This version by Bill Reid was carved on the site in Stanley Park in 1964 with the help of Don Yoemans and German carver Werner True.  At the top of the pole is the Moon with a Thunderbird face, the a mountain goat with cloven hooves and a Grizzly Bear at the bottom which holds a Seal.  (Stewart, Totem Poles, 1990)",
+                "yearofinstallation": "1964",
+                "photourl": {
+                    "mimetype": "application/octet-stream",
+                    "width": 300,
+                    "filename": "L1Maxime Cyr-Morton - 2013.JPG",
+                    "id": "90139c65d64a47d4722d9b6562bf539d",
+                    "height": 300
+                },
+                "sitename": "Brockton Point",
+                "registryid": 93,
+                "url": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=93",
+                "geom": {
+                    "type": "Point",
+                    "coordinates": [ -123.120781, 49.299161 ]
+                },
+                "photocredits": "Maxime Cyr-Morton",
+                "ownership": "City of Vancouver",
+                "artists": "122",
+                "siteaddress": "Stanley Park",
+                "neighbourhood": "Stanley Park",
+                "type": "Totem pole",
+                "primarymaterial": "Cedar",
+                "locationonsite": "Facing east, far right"
+            },
+            "record_timestamp": "2019-09-16T11:01:38.265000+00:00"
+        },
+        {
+            "datasetid": "public-art",
+            "recordid": "ebe84225c2683f3a55431d848c3c7acdb3520a9b",
+            "fields": {
+                "status": "In place",
+                "descriptionofwork": "A heritage monument, this is a fibreglas reproduction of the original figurehead which was installed in 1923 and is now in the Maritime Museum.  It commemorates the Empress of Japan which sailed into Vancouver during 1891-1922.",
+                "yearofinstallation": "1960",
+                "photourl": {
+                    "mimetype": "application/octet-stream",
+                    "width": 300,
+                    "filename": "LSS Empress of Japan south 29jan2007.JPG",
+                    "id": "882303e2a171b0b1e236dc9621f5a20b",
+                    "height": 300
+                },
+                "url": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=98",
+                "registryid": 98,
+                "geom": {
+                    "type": "Point",
+                    "coordinates": [ -123.117887, 49.299969 ]
+                },
+                "neighbourhood": "Stanley Park",
+                "ownership": "City of Vancouver",
+                "artists": "195",
+                "siteaddress": "Stanley Park",
+                "artistprojectstatement": "The Empress of Japan sailed between Vancouver and the Orient between 1891 and 1922.  The original figurehead was saved by the Vancouver Daily Province and presented to the Park Board in 1928.  In 1960 the badly deteriorated original was replaced with a fibreglass original .  The original is kept at the Vancouver Maritime Museum.",
+                "type": "Memorial or Monument",
+                "primarymaterial": "Fibreglass cast",
+                "locationonsite": "By pathway after Brockton Point"
+            },
+            "record_timestamp": "2019-09-16T11:01:38.265000+00:00"
+        },
+        {
+            "datasetid": "public-art",
+            "recordid": "41aa596bde96388f69e4dfc3eede20303aae354c",
+            "fields": {
+                "status": "Removed",
+                "yearofinstallation": "1936",
+                "sitename": "Prospect Point (Stanley Park)",
+                "url": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=100",
+                "registryid": 100,
+                "ownership": "City of Vancouver",
+                "artists": "22",
+                "siteaddress": "Stanley Park",
+                "artistprojectstatement": "This pole was erected to commemorate the meeting of the Squamish people and Captain George Vancouver near the mouth of the Capilano River in June 1792. According to Terri Clark at the Parks office in 2006, \"..pole was taken down due to rot over 18 years ago and stored in SP yard where it was subsequently consumed by a shed fire - its ashes have returned to the soil.\"",
+                "type": "Totem pole",
+                "primarymaterial": "cedar"
+            },
+            "record_timestamp": "2019-09-16T11:01:38.265000+00:00"
+        },
+        {
+            "datasetid": "public-art",
+            "recordid": "e635a7ff6857cc0c8367c4bfaa9e6aeb4a4c24cb",
+            "fields": {
+                "status": "In place",
+                "descriptionofwork": "The wandering association of rectangular enamel tiles represents the various departments of the university.",
+                "yearofinstallation": "1958",
+                "sitename": "Brock Hall Annex",
+                "url": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=127",
+                "geom": {
+                    "type": "Point",
+                    "coordinates": [ -123.252618, 49.269046 ]
+                },
+                "locationonsite": "Main entrance",
+                "ownership": "university",
+                "artists": "144;145",
+                "registryid": 127,
+                "type": "Mural"
+            },
+            "record_timestamp": "2019-09-16T11:01:38.265000+00:00"
+        },
+        {
+            "datasetid": "public-art",
+            "recordid": "00a49cc22be0e4bb7be27f35c29bc460fa4f796d",
+            "fields": {
+                "status": "Removed",
+                "descriptionofwork": "A dark and highly detailed cast aluminum wall relief in which the central figure stands for human inspiration and creativity.",
+                "yearofinstallation": "1977",
+                "photourl": {
+                    "mimetype": "application/octet-stream",
+                    "width": 300,
+                    "filename": "LAW143-1.jpg",
+                    "id": "b34220c227f20d671a0f8d23f8d8f88e",
+                    "height": 300
+                },
+                "sitename": "Oceanic Plaza Building (Downtown)",
+                "registryid": 143,
+                "url": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=143",
+                "geom": {
+                    "type": "Point",
+                    "coordinates": [ -123.118872, 49.287363 ]
+                },
+                "photocredits": "Barbara Cole",
+                "ownership": "private",
+                "artists": "18",
+                "siteaddress": "1066 West Hastings Street (Downtown)",
+                "neighbourhood": "Downtown",
+                "geo_local_area": "Downtown",
+                "type": "Mural",
+                "primarymaterial": "Aluminum",
+                "locationonsite": "Interior, front lobby"
+            },
+            "record_timestamp": "2019-09-16T11:01:38.265000+00:00"
+        },
+        {
+            "datasetid": "public-art",
+            "recordid": "1e534e70bbb11fcaecc6024c24260c99bdc0aa5f",
+            "fields": {
+                "status": "In place",
+                "descriptionofwork": "A reproduction of a fifteenth century sculpture by Verrochio which stands in the Palazzo Vecchio coutyard in Florence.",
+                "yearofinstallation": "1980",
+                "photourl": {
+                    "mimetype": "application/octet-stream",
+                    "width": 300,
+                    "filename": "LPuttino by photo  Heide Dobler.jpg",
+                    "id": "251c70bfe11914a40e194ead9e268146",
+                    "height": 300
+                },
+                "sitename": "VanDusen Botanical Garden",
+                "registryid": 157,
+                "url": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=157",
+                "geom": {
+                    "type": "Point",
+                    "coordinates": [ -123.130023, 49.238533 ]
+                },
+                "photocredits": "Heide Dobler",
+                "ownership": "City of Vancouver",
+                "artists": "243",
+                "siteaddress": "5251 Oak Street",
+                "neighbourhood": "Shaughnessy",
+                "geo_local_area": "Shaughnessy",
+                "type": "Sculpture",
+                "primarymaterial": "Bronze",
+                "locationonsite": "Children's garden"
+            },
+            "record_timestamp": "2019-09-16T11:01:38.265000+00:00"
+        },
+        {
+            "datasetid": "public-art",
+            "recordid": "0496167e7057a6316dc26ff114c9dec6b920381f",
+            "fields": {
+                "status": "In place",
+                "descriptionofwork": "A commemorative statue that represents Christopher Columbus as a boy, it was originally installed in a small square at Clark Street and 5th Avenue but now resides in Hastings Park. The statue was erected in memory of the Honourable Angelo E. Branca, Q.C., October 11, 1986.",
+                "yearofinstallation": "1986",
+                "photourl": {
+                    "mimetype": "application/octet-stream",
+                    "width": 300,
+                    "filename": "LAW159-1.jpg",
+                    "id": "c2c415c838c3be64c78133c5cbe56107",
+                    "height": 300
+                },
+                "sitename": "Hastings Park",
+                "registryid": 159,
+                "url": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=159",
+                "geom": {
+                    "type": "Point",
+                    "coordinates": [ -123.042774, 49.284136 ]
+                },
+                "photocredits": "Barbara Cole",
+                "ownership": "City of Vancouver",
+                "artists": "195",
+                "neighbourhood": "Hastings-Sunrise",
+                "type": "Sculpture",
+                "primarymaterial": "Bronze",
+                "geo_local_area": "Hastings-Sunrise"
+            },
+            "record_timestamp": "2019-09-16T11:01:38.265000+00:00"
+        }
+    ],
+    "facet_groups": [
+        {
+            "facets": [
+                {
+                    "count": 28,
+                    "path": "Stanley Park",
+                    "state": "displayed",
+                    "name": "Stanley Park"
+                },
+                {
+                    "count": 25,
+                    "path": "5251 Oak Street",
+                    "state": "displayed",
+                    "name": "5251 Oak Street"
+                },
+                {
+                    "count": 18,
+                    "path": "1128 West Georgia Street",
+                    "state": "displayed",
+                    "name": "1128 West Georgia Street"
+                },
+                {
+                    "count": 8,
+                    "path": "700 Hamilton Street",
+                    "state": "displayed",
+                    "name": "700 Hamilton Street"
+                },
+                {
+                    "count": 7,
+                    "path": "780 East Cordova",
+                    "state": "displayed",
+                    "name": "780 East Cordova"
+                },
+                {
+                    "count": 6,
+                    "path": "450 SW Marine Drive",
+                    "state": "displayed",
+                    "name": "450 SW Marine Drive"
+                },
+                {
+                    "count": 6,
+                    "path": "750 Hornby Street",
+                    "state": "displayed",
+                    "name": "750 Hornby Street"
+                },
+                {
+                    "count": 6,
+                    "path": "Various",
+                    "state": "displayed",
+                    "name": "Various"
+                },
+                {
+                    "count": 5,
+                    "path": "281 Industrial Avenue",
+                    "state": "displayed",
+                    "name": "281 Industrial Avenue"
+                },
+                {
+                    "count": 5,
+                    "path": "350 West Georgia Street",
+                    "state": "displayed",
+                    "name": "350 West Georgia Street"
+                },
+                {
+                    "count": 5,
+                    "path": "453 West 12th Avenue",
+                    "state": "displayed",
+                    "name": "453 West 12th Avenue"
+                },
+                {
+                    "count": 4,
+                    "path": "1100 Chestnut Street",
+                    "state": "displayed",
+                    "name": "1100 Chestnut Street"
+                },
+                {
+                    "count": 4,
+                    "path": "Georgia & Granville Street",
+                    "state": "displayed",
+                    "name": "Georgia & Granville Street"
+                },
+                {
+                    "count": 3,
+                    "path": "237 Southern Street",
+                    "state": "displayed",
+                    "name": "237 Southern Street"
+                },
+                {
+                    "count": 3,
+                    "path": "246 Southern Street",
+                    "state": "displayed",
+                    "name": "246 Southern Street"
+                },
+                {
+                    "count": 3,
+                    "path": "999 Canada Place Way",
+                    "state": "displayed",
+                    "name": "999 Canada Place Way"
+                },
+                {
+                    "count": 3,
+                    "path": "Hastings & Cambie Street",
+                    "state": "displayed",
+                    "name": "Hastings & Cambie Street"
+                },
+                {
+                    "count": 3,
+                    "path": "Robson & Hornby Street",
+                    "state": "displayed",
+                    "name": "Robson & Hornby Street"
+                },
+                {
+                    "count": 2,
+                    "path": "1 Athletes Way",
+                    "state": "displayed",
+                    "name": "1 Athletes Way"
+                },
+                {
+                    "count": 2,
+                    "path": "1050 Beach Avenue",
+                    "state": "displayed",
+                    "name": "1050 Beach Avenue"
+                },
+                {
+                    "count": 2,
+                    "path": "108 East Broadway",
+                    "state": "displayed",
+                    "name": "108 East Broadway"
+                },
+                {
+                    "count": 2,
+                    "path": "149 West Hastings Street",
+                    "state": "displayed",
+                    "name": "149 West Hastings Street"
+                },
+                {
+                    "count": 2,
+                    "path": "1661 Napier Street",
+                    "state": "displayed",
+                    "name": "1661 Napier Street"
+                },
+                {
+                    "count": 2,
+                    "path": "2055 Woodland Drive",
+                    "state": "displayed",
+                    "name": "2055 Woodland Drive"
+                },
+                {
+                    "count": 2,
+                    "path": "237 SOUTHERN STREET",
+                    "state": "displayed",
+                    "name": "237 SOUTHERN STREET"
+                },
+                {
+                    "count": 2,
+                    "path": "2630 Main Street",
+                    "state": "displayed",
+                    "name": "2630 Main Street"
+                },
+                {
+                    "count": 2,
+                    "path": "333 East Broadway",
+                    "state": "displayed",
+                    "name": "333 East Broadway"
+                },
+                {
+                    "count": 2,
+                    "path": "3350 Victoria Drive",
+                    "state": "displayed",
+                    "name": "3350 Victoria Drive"
+                },
+                {
+                    "count": 2,
+                    "path": "350 West Georgia",
+                    "state": "displayed",
+                    "name": "350 West Georgia"
+                },
+                {
+                    "count": 2,
+                    "path": "453 West 12th Avenue at Cambie",
+                    "state": "displayed",
+                    "name": "453 West 12th Avenue at Cambie"
+                },
+                {
+                    "count": 2,
+                    "path": "475 West Georgia Street",
+                    "state": "displayed",
+                    "name": "475 West Georgia Street"
+                },
+                {
+                    "count": 2,
+                    "path": "500 Nicola Street",
+                    "state": "displayed",
+                    "name": "500 Nicola Street"
+                },
+                {
+                    "count": 2,
+                    "path": "6260 Killarney Street",
+                    "state": "displayed",
+                    "name": "6260 Killarney Street"
+                },
+                {
+                    "count": 2,
+                    "path": "700 National Avenue",
+                    "state": "displayed",
+                    "name": "700 National Avenue"
+                },
+                {
+                    "count": 2,
+                    "path": "800 Griffiths Way",
+                    "state": "displayed",
+                    "name": "800 Griffiths Way"
+                },
+                {
+                    "count": 2,
+                    "path": "8555 Granville Street",
+                    "state": "displayed",
+                    "name": "8555 Granville Street"
+                },
+                {
+                    "count": 2,
+                    "path": "Burrard & Dunsmuir Street",
+                    "state": "displayed",
+                    "name": "Burrard & Dunsmuir Street"
+                },
+                {
+                    "count": 2,
+                    "path": "Denman & Georgia Street",
+                    "state": "displayed",
+                    "name": "Denman & Georgia Street"
+                },
+                {
+                    "count": 2,
+                    "path": "various",
+                    "state": "displayed",
+                    "name": "various"
+                },
+                {
+                    "count": 1,
+                    "path": "(multiple sites)",
+                    "state": "displayed",
+                    "name": "(multiple sites)"
+                },
+                {
+                    "count": 1,
+                    "path": "(south end of Burrard Bridge)",
+                    "state": "displayed",
+                    "name": "(south end of Burrard Bridge)"
+                },
+                {
+                    "count": 1,
+                    "path": "1 - 88 West 1st Avenue",
+                    "state": "displayed",
+                    "name": "1 - 88 West 1st Avenue"
+                },
+                {
+                    "count": 1,
+                    "path": "1 East Cordova Street",
+                    "state": "displayed",
+                    "name": "1 East Cordova Street"
+                },
+                {
+                    "count": 1,
+                    "path": "100 North Renfrew Street",
+                    "state": "displayed",
+                    "name": "100 North Renfrew Street"
+                },
+                {
+                    "count": 1,
+                    "path": "100 West 15th Avenue",
+                    "state": "displayed",
+                    "name": "100 West 15th Avenue"
+                },
+                {
+                    "count": 1,
+                    "path": "100 West 49th Avenue",
+                    "state": "displayed",
+                    "name": "100 West 49th Avenue"
+                },
+                {
+                    "count": 1,
+                    "path": "1000 Chestnut",
+                    "state": "displayed",
+                    "name": "1000 Chestnut"
+                },
+                {
+                    "count": 1,
+                    "path": "1000 block Alberni Street",
+                    "state": "displayed",
+                    "name": "1000 block Alberni Street"
+                },
+                {
+                    "count": 1,
+                    "path": "1011 W Cordova, Vancouver",
+                    "state": "displayed",
+                    "name": "1011 W Cordova, Vancouver"
+                },
+                {
+                    "count": 1,
+                    "path": "1014 Main Street",
+                    "state": "displayed",
+                    "name": "1014 Main Street"
+                },
+                {
+                    "count": 1,
+                    "path": "1033 Marinaside Crescent",
+                    "state": "displayed",
+                    "name": "1033 Marinaside Crescent"
+                },
+                {
+                    "count": 1,
+                    "path": "1055 Canada Place (foot of Burrard Street)",
+                    "state": "displayed",
+                    "name": "1055 Canada Place (foot of Burrard Street)"
+                },
+                {
+                    "count": 1,
+                    "path": "1066 West Hastings Street (Downtown)",
+                    "state": "displayed",
+                    "name": "1066 West Hastings Street (Downtown)"
+                },
+                {
+                    "count": 1,
+                    "path": "1067 West Cordova Street",
+                    "state": "displayed",
+                    "name": "1067 West Cordova Street"
+                },
+                {
+                    "count": 1,
+                    "path": "1075 West Georgia Street",
+                    "state": "displayed",
+                    "name": "1075 West Georgia Street"
+                },
+                {
+                    "count": 1,
+                    "path": "108 E Broadway",
+                    "state": "displayed",
+                    "name": "108 E Broadway"
+                },
+                {
+                    "count": 1,
+                    "path": "108 East 1st Avenue",
+                    "state": "displayed",
+                    "name": "108 East 1st Avenue"
+                },
+                {
+                    "count": 1,
+                    "path": "1088 Cambie Street, Pacific Blvd. at Cambie Street",
+                    "state": "displayed",
+                    "name": "1088 Cambie Street, Pacific Blvd. at Cambie Street"
+                },
+                {
+                    "count": 1,
+                    "path": "10th & 11th Avenues and Commercial Street",
+                    "state": "displayed",
+                    "name": "10th & 11th Avenues and Commercial Street"
+                },
+                {
+                    "count": 1,
+                    "path": "11 West Pender Street",
+                    "state": "displayed",
+                    "name": "11 West Pender Street"
+                },
+                {
+                    "count": 1,
+                    "path": "1108 Pendrell Street",
+                    "state": "displayed",
+                    "name": "1108 Pendrell Street"
+                },
+                {
+                    "count": 1,
+                    "path": "111 Alexander Street, Vancouver, BC",
+                    "state": "displayed",
+                    "name": "111 Alexander Street, Vancouver, BC"
+                },
+                {
+                    "count": 1,
+                    "path": "1111 West Georgia Street",
+                    "state": "displayed",
+                    "name": "1111 West Georgia Street"
+                },
+                {
+                    "count": 1,
+                    "path": "112 West Hastings",
+                    "state": "displayed",
+                    "name": "112 West Hastings"
+                },
+                {
+                    "count": 1,
+                    "path": "1120 East 7th Avenue",
+                    "state": "displayed",
+                    "name": "1120 East 7th Avenue"
+                },
+                {
+                    "count": 1,
+                    "path": "1133 Seymour",
+                    "state": "displayed",
+                    "name": "1133 Seymour"
+                },
+                {
+                    "count": 1,
+                    "path": "1145 Commercial Drive",
+                    "state": "displayed",
+                    "name": "1145 Commercial Drive"
+                },
+                {
+                    "count": 1,
+                    "path": "1150 Chestnut Street",
+                    "state": "displayed",
+                    "name": "1150 Chestnut Street"
+                },
+                {
+                    "count": 1,
+                    "path": "1161 West Georgia Street",
+                    "state": "displayed",
+                    "name": "1161 West Georgia Street"
+                },
+                {
+                    "count": 1,
+                    "path": "1166 West 14th Avenue",
+                    "state": "displayed",
+                    "name": "1166 West 14th Avenue"
+                },
+                {
+                    "count": 1,
+                    "path": "1169 West Cordova",
+                    "state": "displayed",
+                    "name": "1169 West Cordova"
+                },
+                {
+                    "count": 1,
+                    "path": "1190 Melville Street (Downtown)",
+                    "state": "displayed",
+                    "name": "1190 Melville Street (Downtown)"
+                },
+                {
+                    "count": 1,
+                    "path": "120 East Broadway",
+                    "state": "displayed",
+                    "name": "120 East Broadway"
+                },
+                {
+                    "count": 1,
+                    "path": "1200 Alberni Street (at Bute)",
+                    "state": "displayed",
+                    "name": "1200 Alberni Street (at Bute)"
+                },
+                {
+                    "count": 1,
+                    "path": "1200 West Georgia Street at Bute Street",
+                    "state": "displayed",
+                    "name": "1200 West Georgia Street at Bute Street"
+                },
+                {
+                    "count": 1,
+                    "path": "1205 West Hastings Street",
+                    "state": "displayed",
+                    "name": "1205 West Hastings Street"
+                },
+                {
+                    "count": 1,
+                    "path": "1233 West Cordova",
+                    "state": "displayed",
+                    "name": "1233 West Cordova"
+                },
+                {
+                    "count": 1,
+                    "path": "1265 Adanac Street",
+                    "state": "displayed",
+                    "name": "1265 Adanac Street"
+                },
+                {
+                    "count": 1,
+                    "path": "1283 Howe Street",
+                    "state": "displayed",
+                    "name": "1283 Howe Street"
+                },
+                {
+                    "count": 1,
+                    "path": "1290 Granville Street (Downtown)",
+                    "state": "displayed",
+                    "name": "1290 Granville Street (Downtown)"
+                },
+                {
+                    "count": 1,
+                    "path": "12th Avenue and Garden Drive",
+                    "state": "displayed",
+                    "name": "12th Avenue and Garden Drive"
+                },
+                {
+                    "count": 1,
+                    "path": "12th Avenue at Willow Street",
+                    "state": "displayed",
+                    "name": "12th Avenue at Willow Street"
+                },
+                {
+                    "count": 1,
+                    "path": "1300 West Georgia",
+                    "state": "displayed",
+                    "name": "1300 West Georgia"
+                },
+                {
+                    "count": 1,
+                    "path": "1300 block Of Pacific Boulevard",
+                    "state": "displayed",
+                    "name": "1300 block Of Pacific Boulevard"
+                },
+                {
+                    "count": 1,
+                    "path": "1300 block of Pacific Blvd.",
+                    "state": "displayed",
+                    "name": "1300 block of Pacific Blvd."
+                },
+                {
+                    "count": 1,
+                    "path": "1304 Howe St",
+                    "state": "displayed",
+                    "name": "1304 Howe St"
+                },
+                {
+                    "count": 1,
+                    "path": "1308 Hornby Street",
+                    "state": "displayed",
+                    "name": "1308 Hornby Street"
+                },
+                {
+                    "count": 1,
+                    "path": "1372 Seymour Street",
+                    "state": "displayed",
+                    "name": "1372 Seymour Street"
+                },
+                {
+                    "count": 1,
+                    "path": "138 E 8TH Ave",
+                    "state": "displayed",
+                    "name": "138 E 8TH Ave"
+                },
+                {
+                    "count": 1,
+                    "path": "1398 Richards Street",
+                    "state": "displayed",
+                    "name": "1398 Richards Street"
+                },
+                {
+                    "count": 1,
+                    "path": "13th Avenue to 32nd Avenue",
+                    "state": "displayed",
+                    "name": "13th Avenue to 32nd Avenue"
+                },
+                {
+                    "count": 1,
+                    "path": "1408 Pacific Boulevard",
+                    "state": "displayed",
+                    "name": "1408 Pacific Boulevard"
+                },
+                {
+                    "count": 1,
+                    "path": "1455 Howe Street, Vancouver, B.C. V6Z 1C2",
+                    "state": "displayed",
+                    "name": "1455 Howe Street, Vancouver, B.C. V6Z 1C2"
+                },
+                {
+                    "count": 1,
+                    "path": "149 East Waterfront Road",
+                    "state": "displayed",
+                    "name": "149 East Waterfront Road"
+                },
+                {
+                    "count": 1,
+                    "path": "149 West Hastings",
+                    "state": "displayed",
+                    "name": "149 West Hastings"
+                },
+                {
+                    "count": 1,
+                    "path": "149 West Hastings (Downtown Eastside)",
+                    "state": "displayed",
+                    "name": "149 West Hastings (Downtown Eastside)"
+                },
+                {
+                    "count": 1,
+                    "path": "1499 West Pender Street",
+                    "state": "displayed",
+                    "name": "1499 West Pender Street"
+                },
+                {
+                    "count": 1,
+                    "path": "1529 West Pender Street",
+                    "state": "displayed",
+                    "name": "1529 West Pender Street"
+                },
+                {
+                    "count": 1,
+                    "path": "153 East 8th Avenue",
+                    "state": "displayed",
+                    "name": "153 East 8th Avenue"
+                },
+                {
+                    "count": 1,
+                    "path": "1600 block of Beach Avenue",
+                    "state": "displayed",
+                    "name": "1600 block of Beach Avenue"
+                }
+            ],
+            "name": "siteaddress"
+        },
+        {
+            "facets": [
+                {
+                    "count": 170,
+                    "path": "Sculpture",
+                    "state": "displayed",
+                    "name": "Sculpture"
+                },
+                {
+                    "count": 116,
+                    "path": "Mural",
+                    "state": "displayed",
+                    "name": "Mural"
+                },
+                {
+                    "count": 115,
+                    "path": "Site Work",
+                    "state": "displayed",
+                    "name": "Site Work"
+                },
+                {
+                    "count": 64,
+                    "path": "Other",
+                    "state": "displayed",
+                    "name": "Other"
+                },
+                {
+                    "count": 32,
+                    "path": "Totem pole",
+                    "state": "displayed",
+                    "name": "Totem pole"
+                },
+                {
+                    "count": 26,
+                    "path": "Memorial or Monument",
+                    "state": "displayed",
+                    "name": "Memorial or Monument"
+                },
+                {
+                    "count": 22,
+                    "path": "Mosaic",
+                    "state": "displayed",
+                    "name": "Mosaic"
+                },
+                {
+                    "count": 17,
+                    "path": "Relief",
+                    "state": "displayed",
+                    "name": "Relief"
+                },
+                {
+                    "count": 15,
+                    "path": "Fountain or Water Feature",
+                    "state": "displayed",
+                    "name": "Fountain or Water Feature"
+                },
+                {
+                    "count": 12,
+                    "path": "Two-Dimensional Artwork",
+                    "state": "displayed",
+                    "name": "Two-Dimensional Artwork"
+                },
+                {
+                    "count": 8,
+                    "path": "Figurative",
+                    "state": "displayed",
+                    "name": "Figurative"
+                },
+                {
+                    "count": 5,
+                    "path": "Banners",
+                    "state": "displayed",
+                    "name": "Banners"
+                },
+                {
+                    "count": 5,
+                    "path": "Gateway",
+                    "state": "displayed",
+                    "name": "Gateway"
+                },
+                {
+                    "count": 2,
+                    "path": "Artefact",
+                    "state": "displayed",
+                    "name": "Artefact"
+                },
+                {
+                    "count": 2,
+                    "path": "Bust",
+                    "state": "displayed",
+                    "name": "Bust"
+                },
+                {
+                    "count": 1,
+                    "path": "Tapestry",
+                    "state": "displayed",
+                    "name": "Tapestry"
+                }
+            ],
+            "name": "type"
+        },
+        {
+            "facets": [
+                {
+                    "count": 168,
+                    "path": "Downtown",
+                    "state": "displayed",
+                    "name": "Downtown"
+                },
+                {
+                    "count": 49,
+                    "path": "Mount Pleasant",
+                    "state": "displayed",
+                    "name": "Mount Pleasant"
+                },
+                {
+                    "count": 45,
+                    "path": "DowntownEastside",
+                    "state": "displayed",
+                    "name": "DowntownEastside"
+                },
+                {
+                    "count": 37,
+                    "path": "West End",
+                    "state": "displayed",
+                    "name": "West End"
+                },
+                {
+                    "count": 32,
+                    "path": "Strathcona",
+                    "state": "displayed",
+                    "name": "Strathcona"
+                },
+                {
+                    "count": 29,
+                    "path": "Stanley Park",
+                    "state": "displayed",
+                    "name": "Stanley Park"
+                },
+                {
+                    "count": 28,
+                    "path": "Shaughnessy",
+                    "state": "displayed",
+                    "name": "Shaughnessy"
+                },
+                {
+                    "count": 23,
+                    "path": "Kensington-Cedar Cottage",
+                    "state": "displayed",
+                    "name": "Kensington-Cedar Cottage"
+                },
+                {
+                    "count": 22,
+                    "path": "Grandview-Woodland",
+                    "state": "displayed",
+                    "name": "Grandview-Woodland"
+                },
+                {
+                    "count": 17,
+                    "path": "Kitsilano",
+                    "state": "displayed",
+                    "name": "Kitsilano"
+                },
+                {
+                    "count": 16,
+                    "path": "Fairview",
+                    "state": "displayed",
+                    "name": "Fairview"
+                },
+                {
+                    "count": 14,
+                    "path": "Marpole",
+                    "state": "displayed",
+                    "name": "Marpole"
+                },
+                {
+                    "count": 9,
+                    "path": "RileyPark",
+                    "state": "displayed",
+                    "name": "RileyPark"
+                },
+                {
+                    "count": 8,
+                    "path": "Hastings-Sunrise",
+                    "state": "displayed",
+                    "name": "Hastings-Sunrise"
+                },
+                {
+                    "count": 8,
+                    "path": "Renfrew-Collingwood",
+                    "state": "displayed",
+                    "name": "Renfrew-Collingwood"
+                },
+                {
+                    "count": 8,
+                    "path": "Sunset",
+                    "state": "displayed",
+                    "name": "Sunset"
+                },
+                {
+                    "count": 7,
+                    "path": "Killarney",
+                    "state": "displayed",
+                    "name": "Killarney"
+                },
+                {
+                    "count": 4,
+                    "path": "South Cambie",
+                    "state": "displayed",
+                    "name": "South Cambie"
+                },
+                {
+                    "count": 4,
+                    "path": "West Point Grey",
+                    "state": "displayed",
+                    "name": "West Point Grey"
+                },
+                {
+                    "count": 3,
+                    "path": "Dunbar-Southlands",
+                    "state": "displayed",
+                    "name": "Dunbar-Southlands"
+                },
+                {
+                    "count": 3,
+                    "path": "Oakridge",
+                    "state": "displayed",
+                    "name": "Oakridge"
+                },
+                {
+                    "count": 2,
+                    "path": "Arbutus Ridge",
+                    "state": "displayed",
+                    "name": "Arbutus Ridge"
+                },
+                {
+                    "count": 2,
+                    "path": "Victoria-Fraserview",
+                    "state": "displayed",
+                    "name": "Victoria-Fraserview"
+                },
+                {
+                    "count": 1,
+                    "path": "Kerrisdale",
+                    "state": "displayed",
+                    "name": "Kerrisdale"
+                }
+            ],
+            "name": "neighbourhood"
+        },
+        {
+            "facets": [
+                {
+                    "count": 13,
+                    "path": "195",
+                    "state": "displayed",
+                    "name": "195"
+                },
+                {
+                    "count": 10,
+                    "path": "131",
+                    "state": "displayed",
+                    "name": "131"
+                },
+                {
+                    "count": 10,
+                    "path": "148",
+                    "state": "displayed",
+                    "name": "148"
+                },
+                {
+                    "count": 7,
+                    "path": "260",
+                    "state": "displayed",
+                    "name": "260"
+                },
+                {
+                    "count": 7,
+                    "path": "515",
+                    "state": "displayed",
+                    "name": "515"
+                },
+                {
+                    "count": 6,
+                    "path": "140",
+                    "state": "displayed",
+                    "name": "140"
+                },
+                {
+                    "count": 6,
+                    "path": "241",
+                    "state": "displayed",
+                    "name": "241"
+                },
+                {
+                    "count": 6,
+                    "path": "264",
+                    "state": "displayed",
+                    "name": "264"
+                },
+                {
+                    "count": 6,
+                    "path": "3",
+                    "state": "displayed",
+                    "name": "3"
+                },
+                {
+                    "count": 6,
+                    "path": "41",
+                    "state": "displayed",
+                    "name": "41"
+                },
+                {
+                    "count": 5,
+                    "path": "145",
+                    "state": "displayed",
+                    "name": "145"
+                },
+                {
+                    "count": 5,
+                    "path": "251",
+                    "state": "displayed",
+                    "name": "251"
+                },
+                {
+                    "count": 5,
+                    "path": "277",
+                    "state": "displayed",
+                    "name": "277"
+                },
+                {
+                    "count": 5,
+                    "path": "300",
+                    "state": "displayed",
+                    "name": "300"
+                },
+                {
+                    "count": 5,
+                    "path": "98",
+                    "state": "displayed",
+                    "name": "98"
+                },
+                {
+                    "count": 4,
+                    "path": "122",
+                    "state": "displayed",
+                    "name": "122"
+                },
+                {
+                    "count": 4,
+                    "path": "144",
+                    "state": "displayed",
+                    "name": "144"
+                },
+                {
+                    "count": 4,
+                    "path": "219",
+                    "state": "displayed",
+                    "name": "219"
+                },
+                {
+                    "count": 4,
+                    "path": "259",
+                    "state": "displayed",
+                    "name": "259"
+                },
+                {
+                    "count": 4,
+                    "path": "284",
+                    "state": "displayed",
+                    "name": "284"
+                },
+                {
+                    "count": 4,
+                    "path": "389",
+                    "state": "displayed",
+                    "name": "389"
+                },
+                {
+                    "count": 4,
+                    "path": "391",
+                    "state": "displayed",
+                    "name": "391"
+                },
+                {
+                    "count": 4,
+                    "path": "47",
+                    "state": "displayed",
+                    "name": "47"
+                },
+                {
+                    "count": 4,
+                    "path": "83",
+                    "state": "displayed",
+                    "name": "83"
+                },
+                {
+                    "count": 3,
+                    "path": "109",
+                    "state": "displayed",
+                    "name": "109"
+                },
+                {
+                    "count": 3,
+                    "path": "114",
+                    "state": "displayed",
+                    "name": "114"
+                },
+                {
+                    "count": 3,
+                    "path": "123",
+                    "state": "displayed",
+                    "name": "123"
+                },
+                {
+                    "count": 3,
+                    "path": "168",
+                    "state": "displayed",
+                    "name": "168"
+                },
+                {
+                    "count": 3,
+                    "path": "181",
+                    "state": "displayed",
+                    "name": "181"
+                },
+                {
+                    "count": 3,
+                    "path": "19",
+                    "state": "displayed",
+                    "name": "19"
+                },
+                {
+                    "count": 3,
+                    "path": "202",
+                    "state": "displayed",
+                    "name": "202"
+                },
+                {
+                    "count": 3,
+                    "path": "236",
+                    "state": "displayed",
+                    "name": "236"
+                },
+                {
+                    "count": 3,
+                    "path": "253",
+                    "state": "displayed",
+                    "name": "253"
+                },
+                {
+                    "count": 3,
+                    "path": "258",
+                    "state": "displayed",
+                    "name": "258"
+                },
+                {
+                    "count": 3,
+                    "path": "30",
+                    "state": "displayed",
+                    "name": "30"
+                },
+                {
+                    "count": 3,
+                    "path": "324",
+                    "state": "displayed",
+                    "name": "324"
+                },
+                {
+                    "count": 3,
+                    "path": "335",
+                    "state": "displayed",
+                    "name": "335"
+                },
+                {
+                    "count": 3,
+                    "path": "374",
+                    "state": "displayed",
+                    "name": "374"
+                },
+                {
+                    "count": 3,
+                    "path": "382",
+                    "state": "displayed",
+                    "name": "382"
+                },
+                {
+                    "count": 3,
+                    "path": "395",
+                    "state": "displayed",
+                    "name": "395"
+                },
+                {
+                    "count": 3,
+                    "path": "396",
+                    "state": "displayed",
+                    "name": "396"
+                },
+                {
+                    "count": 3,
+                    "path": "45",
+                    "state": "displayed",
+                    "name": "45"
+                },
+                {
+                    "count": 3,
+                    "path": "560",
+                    "state": "displayed",
+                    "name": "560"
+                },
+                {
+                    "count": 2,
+                    "path": "100",
+                    "state": "displayed",
+                    "name": "100"
+                },
+                {
+                    "count": 2,
+                    "path": "111",
+                    "state": "displayed",
+                    "name": "111"
+                },
+                {
+                    "count": 2,
+                    "path": "132",
+                    "state": "displayed",
+                    "name": "132"
+                },
+                {
+                    "count": 2,
+                    "path": "149",
+                    "state": "displayed",
+                    "name": "149"
+                },
+                {
+                    "count": 2,
+                    "path": "166",
+                    "state": "displayed",
+                    "name": "166"
+                },
+                {
+                    "count": 2,
+                    "path": "167",
+                    "state": "displayed",
+                    "name": "167"
+                },
+                {
+                    "count": 2,
+                    "path": "170",
+                    "state": "displayed",
+                    "name": "170"
+                },
+                {
+                    "count": 2,
+                    "path": "172",
+                    "state": "displayed",
+                    "name": "172"
+                },
+                {
+                    "count": 2,
+                    "path": "174",
+                    "state": "displayed",
+                    "name": "174"
+                },
+                {
+                    "count": 2,
+                    "path": "182",
+                    "state": "displayed",
+                    "name": "182"
+                },
+                {
+                    "count": 2,
+                    "path": "185",
+                    "state": "displayed",
+                    "name": "185"
+                },
+                {
+                    "count": 2,
+                    "path": "198",
+                    "state": "displayed",
+                    "name": "198"
+                },
+                {
+                    "count": 2,
+                    "path": "203",
+                    "state": "displayed",
+                    "name": "203"
+                },
+                {
+                    "count": 2,
+                    "path": "210",
+                    "state": "displayed",
+                    "name": "210"
+                },
+                {
+                    "count": 2,
+                    "path": "216",
+                    "state": "displayed",
+                    "name": "216"
+                },
+                {
+                    "count": 2,
+                    "path": "221",
+                    "state": "displayed",
+                    "name": "221"
+                },
+                {
+                    "count": 2,
+                    "path": "238",
+                    "state": "displayed",
+                    "name": "238"
+                },
+                {
+                    "count": 2,
+                    "path": "240",
+                    "state": "displayed",
+                    "name": "240"
+                },
+                {
+                    "count": 2,
+                    "path": "244",
+                    "state": "displayed",
+                    "name": "244"
+                },
+                {
+                    "count": 2,
+                    "path": "255",
+                    "state": "displayed",
+                    "name": "255"
+                },
+                {
+                    "count": 2,
+                    "path": "267",
+                    "state": "displayed",
+                    "name": "267"
+                },
+                {
+                    "count": 2,
+                    "path": "273",
+                    "state": "displayed",
+                    "name": "273"
+                },
+                {
+                    "count": 2,
+                    "path": "280",
+                    "state": "displayed",
+                    "name": "280"
+                },
+                {
+                    "count": 2,
+                    "path": "289",
+                    "state": "displayed",
+                    "name": "289"
+                },
+                {
+                    "count": 2,
+                    "path": "290",
+                    "state": "displayed",
+                    "name": "290"
+                },
+                {
+                    "count": 2,
+                    "path": "294",
+                    "state": "displayed",
+                    "name": "294"
+                },
+                {
+                    "count": 2,
+                    "path": "306",
+                    "state": "displayed",
+                    "name": "306"
+                },
+                {
+                    "count": 2,
+                    "path": "307",
+                    "state": "displayed",
+                    "name": "307"
+                },
+                {
+                    "count": 2,
+                    "path": "316",
+                    "state": "displayed",
+                    "name": "316"
+                },
+                {
+                    "count": 2,
+                    "path": "323",
+                    "state": "displayed",
+                    "name": "323"
+                },
+                {
+                    "count": 2,
+                    "path": "329",
+                    "state": "displayed",
+                    "name": "329"
+                },
+                {
+                    "count": 2,
+                    "path": "331",
+                    "state": "displayed",
+                    "name": "331"
+                },
+                {
+                    "count": 2,
+                    "path": "336",
+                    "state": "displayed",
+                    "name": "336"
+                },
+                {
+                    "count": 2,
+                    "path": "344",
+                    "state": "displayed",
+                    "name": "344"
+                },
+                {
+                    "count": 2,
+                    "path": "345",
+                    "state": "displayed",
+                    "name": "345"
+                },
+                {
+                    "count": 2,
+                    "path": "347",
+                    "state": "displayed",
+                    "name": "347"
+                },
+                {
+                    "count": 2,
+                    "path": "411",
+                    "state": "displayed",
+                    "name": "411"
+                },
+                {
+                    "count": 2,
+                    "path": "414",
+                    "state": "displayed",
+                    "name": "414"
+                },
+                {
+                    "count": 2,
+                    "path": "417",
+                    "state": "displayed",
+                    "name": "417"
+                },
+                {
+                    "count": 2,
+                    "path": "419",
+                    "state": "displayed",
+                    "name": "419"
+                },
+                {
+                    "count": 2,
+                    "path": "431",
+                    "state": "displayed",
+                    "name": "431"
+                },
+                {
+                    "count": 2,
+                    "path": "44",
+                    "state": "displayed",
+                    "name": "44"
+                },
+                {
+                    "count": 2,
+                    "path": "441",
+                    "state": "displayed",
+                    "name": "441"
+                },
+                {
+                    "count": 2,
+                    "path": "460",
+                    "state": "displayed",
+                    "name": "460"
+                },
+                {
+                    "count": 2,
+                    "path": "467",
+                    "state": "displayed",
+                    "name": "467"
+                },
+                {
+                    "count": 2,
+                    "path": "477",
+                    "state": "displayed",
+                    "name": "477"
+                },
+                {
+                    "count": 2,
+                    "path": "508",
+                    "state": "displayed",
+                    "name": "508"
+                },
+                {
+                    "count": 2,
+                    "path": "522",
+                    "state": "displayed",
+                    "name": "522"
+                },
+                {
+                    "count": 2,
+                    "path": "67",
+                    "state": "displayed",
+                    "name": "67"
+                },
+                {
+                    "count": 2,
+                    "path": "68",
+                    "state": "displayed",
+                    "name": "68"
+                },
+                {
+                    "count": 2,
+                    "path": "69",
+                    "state": "displayed",
+                    "name": "69"
+                },
+                {
+                    "count": 2,
+                    "path": "76",
+                    "state": "displayed",
+                    "name": "76"
+                },
+                {
+                    "count": 2,
+                    "path": "77",
+                    "state": "displayed",
+                    "name": "77"
+                },
+                {
+                    "count": 2,
+                    "path": "79",
+                    "state": "displayed",
+                    "name": "79"
+                },
+                {
+                    "count": 2,
+                    "path": "84",
+                    "state": "displayed",
+                    "name": "84"
+                },
+                {
+                    "count": 2,
+                    "path": "95",
+                    "state": "displayed",
+                    "name": "95"
+                },
+                {
+                    "count": 1,
+                    "path": "1",
+                    "state": "displayed",
+                    "name": "1"
+                }
+            ],
+            "name": "artists"
+        }
+    ]
+}
